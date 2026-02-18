@@ -1,2 +1,3 @@
-goon = input("what do you want to eat?")
-print(f"Ok i see you want to eat {goon}: ")
+row1 = [0, 0, 0]
+row2 = [0, 0, 0]
+row3 = [0, 0, 0]
